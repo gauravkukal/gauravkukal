@@ -27,3 +27,7 @@ I am a **Technical Leader** with over 24 years of experience driving innovation 
   <img src="https://github-readme-stats.vercel.app/api?username=gauravkukal&show_icons=true&theme=radical" alt="Gaurav's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkukal&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/gauravkukal/)
